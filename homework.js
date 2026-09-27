@@ -11,13 +11,13 @@
 
 window.HOMEWORK_DATA = [
   {
-    "subject": "Mecanica aplicată",
-    "date": "2026-10-12",
-    "task": "Rezolvă exercițiile 1–4 din îndrumar, cap. 2."
+    "subject": "Electrotehnica(lab)",
+    "date": "2026-10-5",
+    "task": "Сделать на А4 таблицы, график и т.д"
   },
   {
-    "subject": "ME/RI (lab)",
-    "date": "2026-09-20",
-    "task": "Pregătește darea de seamă pentru lucrarea de laborator nr. 1."
+    "subject": "Cladiri civile",
+    "date": "2026-10-07",
+    "task": "Сделать чертеж"
   }
 ];
