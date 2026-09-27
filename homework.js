@@ -16,21 +16,21 @@
 window.HOMEWORK_DATA = {
   "ISTGCC-251": [
     {
-      "subject": "Mecanica aplicată",
-      "date": "2026-10-12",
-      "task": "Rezolvă exercițiile 1–4 din îndrumar, cap. 2."
+      "subject": "Electrotehnica(Lab)",
+      "date": "2026-10-05",
+      "task": "Сделать на А4 графики, таблицу и схему"
     },
     {
-      "subject": "Electrotehnica aplicată (lab)",
-      "date": "2026-09-20",
-      "task": "Pregătește darea de seamă pentru lucrarea de laborator nr. 1."
+      "subject": "Cladiri civile(sem)",
+      "date": "2026-10-07",
+      "task": "Сделать дом в AutoCAD/возможно распичатать и принести на прверку"
     }
   ],
   "ISTGCC-251 D": [
     {
-      "subject": "Sisteme de alimentare cu gaze I",
-      "date": "2026-10-15",
-      "task": "Pregătește referatul la tema curs 3."
+      "subject": "",
+      "date": "",
+      "task": ""
     }
   ]
 };
