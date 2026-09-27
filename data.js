@@ -134,6 +134,16 @@ window.ORAR_DATA = {
           "time": "08:00–09:30"
         },
         {
+          "subject": "Rezistența materialelor (lab)",
+          "type": "lab",
+          "teacher": "Balan V.",
+          "room": "10-124",
+          "weeks": "impara",
+          "raw": "Rezistența materialelor (lab) Balan V. 10-124",
+          "slot": 1,
+          "time": "08:00-09:30"
+        },
+        {
           "subject": "Rezistența materialelor (curs)",
           "type": "curs",
           "teacher": "Balan V.",
@@ -152,16 +162,6 @@ window.ORAR_DATA = {
           "raw": "Materiale de construcții (lab) Naval D. 9-P28",
           "slot": 4,
           "time": "13:30–15:00"
-        },
-        {
-          "subject": "Rezistența materialelor (lab)",
-          "type": "lab",
-          "teacher": "Balan V.",
-          "room": "10-124",
-          "weeks": "impara",
-          "raw": "Rezistența materialelor (lab) Balan V. 10-124",
-          "slot": 1,
-          "time": "08:00-09:30"
         },
         {
           "subject": "Materiale de construcții (lab)",
@@ -326,6 +326,16 @@ window.ORAR_DATA = {
           "time": "08:00–09:30"
         },
         {
+          "subject": "Rezistența materialelor (lab)",
+          "type": "lab",
+          "teacher": "Balan V.",
+          "room": "10-124",
+          "weeks": "para",
+          "raw": "Rezistența materialelor (lab) Balan V. 10-124",
+          "slot": 1,
+          "time": "08:00–09:30"
+        },
+        {
           "subject": "Rezistența materialelor (curs)",
           "type": "curs",
           "teacher": "Balan V.",
@@ -344,16 +354,6 @@ window.ORAR_DATA = {
           "raw": "Sisteme de Sisteme de alimentare cu gaze alimentare cu gaze I (sem) I (lab) Haiducova M. 9-322",
           "slot": 3,
           "time": "11:30–13:00"
-        },
-        {
-          "subject": "Rezistența materialelor (lab)",
-          "type": "lab",
-          "teacher": "Balan V.",
-          "room": "10-124",
-          "weeks": "para",
-          "raw": "Rezistența materialelor (lab) Balan V. 10-124",
-          "slot": 1,
-          "time": "08:00–09:30"
         }
       ],
       "Joi": [
