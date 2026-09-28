@@ -76,7 +76,7 @@ window.ORAR_DATA = {
           "type": "curs",
           "teacher": " Chiciuc A",
           "room": "10-229",
-          "weeks": "para",
+          "weeks": "both",
           "raw": "Electrotehnica Chiciuc A 10-229",
           "slot": 1,
           "time": "08:00–09:30"
