@@ -62,10 +62,10 @@ window.ORAR_DATA = {
         {
           "subject": "Termotehnica constructiilor",
           "type": "curs",
-          "teacher": "conf.univ.",
+          "teacher": "Begleţ N.",
           "room": "9-240/9-242",
           "weeks": "both",
-          "raw": "Termotehnica (curs) Begleț N 9-240/9-242",
+          "raw": "Termotehnica (curs) Begleț N. 9-240/9-242",
           "slot": 4,
           "time": "13:30–15:00"
         }
@@ -268,7 +268,7 @@ window.ORAR_DATA = {
           "type": "curs",
           "teacher": "Chiciuc A.",
           "room": "10-229",
-          "weeks": "impara",
+          "weeks": "both",
           "raw": "aplicată (curs) Chiciuc A. 10-229",
           "slot": 1,
           "time": "08:00–09:30"
