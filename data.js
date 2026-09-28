@@ -330,7 +330,7 @@ window.ORAR_DATA = {
           "type": "lab",
           "teacher": "Balan V.",
           "room": "10-124",
-          "weeks": "para",
+          "weeks": "impara",
           "raw": "Rezistența materialelor (lab) Balan V. 10-124",
           "slot": 1,
           "time": "08:00–09:30"
