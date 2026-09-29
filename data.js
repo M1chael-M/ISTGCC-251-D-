@@ -105,9 +105,9 @@ window.ORAR_DATA = {
           "subject": "Clădiri civile (curs)",
           "type": "curs",
           "teacher": "Ciobanu N.",
-          "room": "10-302",
+          "room": "10-309",
           "weeks": "both",
-          "raw": "Clădiri civile (curs) Ciobanu N. 10-302",
+          "raw": "Clădiri civile (curs) Ciobanu N. 10-309",
           "slot": 4,
           "time": "13:30–15:00"
         },
@@ -297,9 +297,9 @@ window.ORAR_DATA = {
           "subject": "Clădiri civile (curs)",
           "type": "curs",
           "teacher": "Ciobanu N.",
-          "room": "10-302",
+          "room": "10-309",
           "weeks": "both",
-          "raw": "Clădiri civile (curs) Ciobanu N. 10-302",
+          "raw": "Clădiri civile (curs) Ciobanu N. 10-309",
           "slot": 4,
           "time": "13:30–15:00"
         },
