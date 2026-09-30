@@ -40,6 +40,16 @@ window.ORAR_DATA = {
           "time": "08:00–09:30"
         },
         {
+          "subject": "",
+          "type": "",
+          "teacher": "",
+          "room": "",
+          "weeks": "para",
+          "raw": "",
+          "slot": 2,
+          "time": "09:45–11:15"
+        },
+        {
           "subject": "Termotehnica construcțiilor (sem)",
           "type": "sem",
           "teacher": "Colomieț T.",
@@ -230,6 +240,16 @@ window.ORAR_DATA = {
           "raw": "Electrotehnica aplicată (lab) Voinesco D./ Grușac L. 2-215",
           "slot": 1,
           "time": "08:00–09:30"
+        },
+        {
+          "subject": "",
+          "type": "",
+          "teacher": "",
+          "room": "",
+          "weeks": "impara",
+          "raw": "",
+          "slot": 2,
+          "time": "09:45–11:15"
         },
         {
           "subject": "Termotehnica construcțiilor (sem)",
