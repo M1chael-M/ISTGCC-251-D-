@@ -115,9 +115,9 @@ window.ORAR_DATA = {
           "subject": "L. străină III",
           "type": "curs",
           "teacher": "",
-          "room": "10-113",
+          "room": "10-124",
           "weeks": "both",
-          "raw": "L. străină III 10-113",
+          "raw": "L. străină III 10-124",
           "slot": 5,
           "time": "15:15–16:45"
         }
@@ -307,9 +307,9 @@ window.ORAR_DATA = {
           "subject": "L. străină III",
           "type": "curs",
           "teacher": "",
-          "room": "10-113",
+          "room": "10-124",
           "weeks": "both",
-          "raw": "L. străină III 10-113",
+          "raw": "L. străină III 10-124",
           "slot": 5,
           "time": "15:15–16:45"
         }
