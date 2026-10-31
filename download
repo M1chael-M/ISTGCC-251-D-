@@ -1,5 +1,0 @@
-# Files to ignore when syncing / publishing optionally
-_preview/
-*.pyc
-.DS_Store
-Thumbs.db
